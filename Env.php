@@ -13,5 +13,5 @@ define("APP_NAME","TEMPLATE01");
 define("HOST_NAME","192.148.43.186/temp/");
 
 // smtpmailer
-define('EMAIL', 'joshtheone70@gmail.com'); // GMail username
-define('PWD', 'josh602474'); // GMail password
+define('EMAIL', 'xxxxxxxxxxxxxx'); // GMail username
+define('PWD', 'xxxxxxxx'); // GMail password
