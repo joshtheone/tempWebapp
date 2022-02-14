@@ -10,7 +10,7 @@ define("DB_NAME","temp");
 // APP SETTINGS
 
 define("APP_NAME","TEMPLATE01");
-define("HOST_NAME","192.148.43.186/temp/");
+define("HOST_NAME","localhost/temp/");
 
 // smtpmailer
 define('EMAIL', 'xxxxxxxxxxxxxx'); // GMail username
